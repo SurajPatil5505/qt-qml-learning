@@ -8,7 +8,7 @@ This repository contains a collection of Qt/QML example projects. Each example i
 |-----|---------------------|----------------------------------------|----------------------------------------|
 | 1   | HelloWorld          | Basic QML application setup            | [README](HelloWorld/README.md)         |
 | 2   | PinWheel            | Rotating PinWheel animation            | [README](PinWheel/README.md)           |
-| 3   | ButtonColumn        | Column of buttons using QML layout     | [README](ButtonColumn/README.md)       |
+| 3   | ButtonColumn        | Column of buttons using QML layout     | [README](ButtonColumn/REAME.md)       |
 | 4   | stringConcatenation | String operations and manipulation     | [README](stringConcatenation/README.md)|
 | 5   | RandomColorButton   | Button that changes color randomly     | [README](RandomColorButton/READM.md)   |
 | 6   | MovingRectangle     | Animate a moving rectangle             | [README](MovingRectangle/READM.md)     |
