@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/linux.png</file>
+        <file>images/RadhaKrishna.jpg</file>
+        <file>images/simpson.png</file>
+    </qresource>
+</RCC>
