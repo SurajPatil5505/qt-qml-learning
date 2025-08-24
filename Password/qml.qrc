@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/hide.png</file>
+        <file>images/show.png</file>
+        <file>CustomTextField.qml</file>
+    </qresource>
+</RCC>
