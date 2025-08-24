@@ -6,13 +6,13 @@ This repository contains a collection of Qt/QML example projects. Each example i
 
 | No. | Example             | Description                            | Link to Details                     |
 |-----|---------------------|----------------------------------------|----------------------------------------|
-| 1   | HelloWorld          | Basic QML application setup            | [README](HelloWorld/READM.md)          |
-| 2   | PinWheel            | Rotating PinWheel animation            | [README](PinWheel/READM.md)            |
-| 3   | ButtonColumn        | Column of buttons using QML layout     | [README](ButtonColumn/READM.md)        |
-| 4   | stringConcatenation | String operations and manipulation     | [README](stringConcatenation/READM.md) |
+| 1   | HelloWorld          | Basic QML application setup            | [README](HelloWorld/README.md)         |
+| 2   | PinWheel            | Rotating PinWheel animation            | [README](PinWheel/README.md)           |
+| 3   | ButtonColumn        | Column of buttons using QML layout     | [README](ButtonColumn/README.md)       |
+| 4   | stringConcatenation | String operations and manipulation     | [README](stringConcatenation/README.md)|
 | 5   | RandomColorButton   | Button that changes color randomly     | [README](RandomColorButton/READM.md)   |
 | 6   | MovingRectangle     | Animate a moving rectangle             | [README](MovingRectangle/READM.md)     |
-| 7   | File_IO             | File read/write operations             | [README](File_IO/READM.md)             |
+| 7   | File_IO             | File read/write operations             | [README](File_IO/README.md)            |
 | 8   | FontsTrial          | Demonstration of font usage in QML     | [README](FontsTrial/READM.md)          |
 | 9   | ImageViewer         | Load and view images                   | [README](ImageViewer/READM.md)         |
 | 10  | SimplePaint         | Simple paint/drawing app               | [README](SimplePaint/READM.md)         |
