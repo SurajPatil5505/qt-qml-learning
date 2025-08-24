@@ -1,9 +1,40 @@
-# Steps to compile the template.
+# PinWheel
 
-1. Choose .pro file as a build for qmake.
-2. Dependency: qt 5.15.
-3. Compile the code using the following commands.
-	i. qmake
-       ii. make -j8
-5. The binary will be available in build folder.
-4. Run the application by double-clicking binary or from command line.
+This example demonstrates how to animate an image using `RotationAnimation` in Qt Quick. A pinwheel graphic oscillates back and forth to simulate rotation, and users can start/stop the animation by clicking on it.
+
+It introduces key Qt QML features such as:
+- `RotationAnimation`
+- `MouseArea` for interactivity
+- UI layout using `anchors`
+- Image resource loading via `qrc`
+
+---
+
+## Project Structure
+
+- `main.qml` – Main UI with pinwheel animation
+- `Images/` – Contains `pinwheel.jpg`, `stick.jpg`, and `background.jpg`
+- `PinWheel.pro` – Qt project file used by `qmake`
+- `resources.qrc` – Resource file mapping image paths
+
+---
+
+## Requirements
+
+- **Qt Version:** 5.15 or later
+- **Build System:** qmake
+- **Compiler:** Make / MSVC / g++
+
+---
+
+## How to Build and Run
+
+### Step 1: Configure the Project
+
+Open the `.pro` file (`PinWheel.pro`) in **Qt Creator** and build using **qmake**.
+
+Or use command line:
+
+```bash
+qmake
+make -j8
